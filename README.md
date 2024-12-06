@@ -7,7 +7,7 @@ I’m a software developer with experience in ASP.NET, .NET, Angular, React, Nex
 I’ve also worked with Python, C++, and Node.js, and currently, I'm exploring RabbitMQ, .NET MAUI, and Django.
 
 ## Frontend
-[!Frontend
+[![My Skills Frontend]
 [![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io)  
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 [![SASS](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)  
