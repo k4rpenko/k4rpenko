@@ -7,6 +7,7 @@ I’m a software developer with experience in ASP.NET, .NET, Angular, React, Nex
 I’ve also worked with Python, C++, and Node.js, and currently, I'm exploring RabbitMQ, .NET MAUI, and Django.
 
 ## Frontend
+[
 [![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io)  
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 [![SASS](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)  
@@ -14,6 +15,8 @@ I’ve also worked with Python, C++, and Node.js, and currently, I'm exploring R
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)  
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)  
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+]
+
 
 ## Backend
 [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/en-us/dotnet/csharp/)  
