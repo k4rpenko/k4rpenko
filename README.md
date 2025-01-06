@@ -4,7 +4,7 @@ A little bit about me:
 
 I’m a software developer with experience in ASP.NET, .NET, Angular, React, Next.js, and more. I work with TypeScript, JavaScript, HTML, SASS, and have hands-on experience with Docker, Redis, and various databases like SQL/NoSQL (MongoDB, MySQL, PostgreSQL).
 
-I’ve also worked with Python, C++, and Node.js, and currently, I'm exploring RabbitMQ, .NET MAUI, and Django.
+I’ve also worked with Python, C++, and Node.js, and currently, I'm exploring RabbitMQ, and Quarkus-Java.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=k4rpenko&show_icons=true)
 ## Frontend
