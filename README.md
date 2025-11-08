@@ -1,10 +1,12 @@
 ## What's up / my name is Dayvid or just David!
 
-A little bit about me:
+A little bit about me: 
 
 I’m a software developer  in ASP.NET, .NET, Angular, React, Next.js, and more. I work with TypeScript, JavaScript, SASS, and have hands-on experience with Docker, Redis, and various databases like SQL/NoSQL (MongoDB, MySQL, PostgreSQL).
 
 I’ve also i know with, C++, and Node.js, and currently, I'm exploring RabbitMQ/Kafka, and Spring Boot-Java for diversity.
+
+WEB:https://k4rpenko-web.vercel.app/
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=k4rpenko&show_icons=true)
 ## Frontend
